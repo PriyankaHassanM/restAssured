@@ -1,0 +1,7 @@
+test-output/
+logs/
+*.log
+*.class
+.idea/
+.project
+.settings/
