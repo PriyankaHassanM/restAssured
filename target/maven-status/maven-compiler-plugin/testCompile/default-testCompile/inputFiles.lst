@@ -1,0 +1,13 @@
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\base\BaseRequestSpec.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\base\BaseResponseSpec.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\base\BaseTest.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\endpoints\JsonPlaceholderAPI.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\endpoints\ReqResAPI.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\payload\PayloadBuilder.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\tests\JsonPlaceholderTests.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\tests\ReqResTests.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\utils\ConfigReader.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\utils\ExtentListener.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\utils\ExtentManager.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\utils\JsonUtil.java
+C:\Users\Admin\eclipse-workspace\restAssured\src\test\java\utils\LogUtil.java
